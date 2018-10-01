@@ -1,5 +1,9 @@
 # texaco
+<<<<<<< HEAD
 This is a demo repository for learning process of git and Cordova, code named Texaco. And the Cordova App is a brochure, much like an simple website. Which features graphic media and content. And this makes use of Materialize CSS framework, since it resembles android app look and feel, and which follows Google Material Guideline.   
+=======
+This is a demo repository for learning process of git and cordova, code named Texaco.
+>>>>>>> ff01f43163286c797f11c1ee7aa548ce89d1166f
 
 # Git Literacy
 ## First Step - Uploading to a new repository created at github
@@ -10,6 +14,7 @@ This is a demo repository for learning process of git and Cordova, code named Te
 4. Now check for altered-files and newly created files using the following command **git status**.
 5. And now we should add the files or the whole files to the repo. using the either of the command **"git add filename"** or **git add .**, now this will prepare the files to be uploaded to repo.
 6. Now we commit the changes and also give a comment regarding the changes we are making. this is like finalizing the changes, beyond which no changes will be taken into account. And if we do make changes after the commit, we re run the step 4,5,6 again. so the command will be **git commit -m "comment"**, here _-m_ stands for master repo.
+<<<<<<< HEAD
 7. This is the final step we push the source file in local dev. system to git repo. and we use the following command **git remote add origin https://github.com/RamGRam/texaco.git** Here the link is the repo. name in github.
 
 ## To update an existing repo. 
@@ -24,3 +29,6 @@ This is a demo repository for learning process of git and Cordova, code named Te
 3. Now there should be a new directory called the appname, just go in and navigate to directory named www. this is where our web app should reside(HTLM, CSS, JS, Graphic-Media).
 4. Now we get to add platform to which this app should be targeted to build, I am currently targeting Android. So I assume that you are inside the appname directory, and now in the terminal type the following **cordova platform add android**.
 
+=======
+This is the final step we push the source file in local dev. system to git repo. and we use the following command **git remote add origin https://github.com/RamGRam/texaco.git** Here the link is the repo. name in github.
+>>>>>>> ff01f43163286c797f11c1ee7aa548ce89d1166f
