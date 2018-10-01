@@ -29,3 +29,4 @@ This is a demo repository for learning process of git and Cordova, code named Te
 
 
 This is the final step we push the source file in local dev. system to git repo. and we use the following command **git remote add origin https://github.com/RamGRam/texaco.git** Here the link is the repo. name in github.
+# texacox
