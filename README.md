@@ -1,5 +1,5 @@
 # texaco
-This is a demo repository for learning process of git and cordova,code named Texaco.
+This is a demo repository for learning process of git and cordova, code named Texaco.
 
 ## First Step - Uploading to a new repository created at github
 1. First step is to create a directory with the same name of the local dev. folder name.
