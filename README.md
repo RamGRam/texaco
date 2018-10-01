@@ -22,3 +22,5 @@ This is a demo repository for learning process of git and Cordova, code named Te
 1. Install the Cordovo CLI using the npm as a global package. the code is as follows **npm install -g cordova**.
 2. to create a Cordova app template, we give the following command **cordova create appname**. There are two extra parameter which are off course ignored in this tutorial. For now the code is enough to create an app template.
 3. Now there should be a new directory called the appname, just go in and navigate to directory named www. this is where our web app should reside(HTLM, CSS, JS, Graphic-Media).
+4. Now we get to add platform to which this app should be targeted to build, I am currently targeting Android. So I assume that you are inside the appname directory, and now in the terminal type the following **cordova platform add android**.
+
